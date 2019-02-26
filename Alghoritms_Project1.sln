@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alghoritms_Project1", "Alghoritms_Project1\Alghoritms_Project1.csproj", "{BE0444E9-942D-4E07-B335-638A43232674}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "NapierSetup", "NapierSetup\NapierSetup.vdproj", "{1776CA97-2EDF-4591-B249-9464A5985085}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE0444E9-942D-4E07-B335-638A43232674}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE0444E9-942D-4E07-B335-638A43232674}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE0444E9-942D-4E07-B335-638A43232674}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE0444E9-942D-4E07-B335-638A43232674}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1776CA97-2EDF-4591-B249-9464A5985085}.Debug|Any CPU.ActiveCfg = Debug
+		{1776CA97-2EDF-4591-B249-9464A5985085}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4C3437E-98B2-4F58-B19C-332743E877D1}
+	EndGlobalSection
+EndGlobal
