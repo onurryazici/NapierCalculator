@@ -1,4 +1,4 @@
-# napierFor3Digit
+# NapierCalculator
 
 Maksimum 3 basamaklı sayıları napier yöntemi ile hesaplayabilirsiniz. Kaynak kodları ve kurulum dosyası mevcuttur.
 //
